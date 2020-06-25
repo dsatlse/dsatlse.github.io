@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block htmltitle %}
+    DS@LSE
+{% endblock htmltitle %}
+{% block content %}
+{% set page = get_page(path="about.md") %}
+{{ page.content | safe }}
+{% endblock content %}

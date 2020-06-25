@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block htmltitle %}
+    Tags
+{% endblock htmltitle %}
+{% block content %}
+    <ul class="list-group">
+{% for tag in terms %}
+    <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+    <a href="{{ tag.permalink }}">{{ tag.name }}</a>
+    <div>
+    <span class="badge badge-success">{{ tag.pages | length }}</span>
+    </div>
+    </li>
+{% endfor %}
+</ul>
+{% endblock content %}
+

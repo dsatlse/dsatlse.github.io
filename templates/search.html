@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block htmltitle %}
+    Search
+{% endblock htmltitle %}
+{% block content %}
+<input id="search" class="form-control mr-sm-2" type="search" placeholder="Search">
+<div class="search-results">
+    <div class="search-results__header"></div>
+    <ul class="search-results__items"></ul>
+</div>
+<script src="{{ get_url(path="elasticlunr.min.js") | safe }}"></script>
+<script src="{{ get_url(path="search_index.en.js") | safe }}"></script>
+<script src="{{ get_url(path="search.js") | safe }}"></script>
+{% endblock content %}
+

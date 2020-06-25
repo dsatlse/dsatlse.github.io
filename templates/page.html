@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block htmltitle %}
+    {{ page.title }}
+{% endblock htmltitle %}
+{% block content %}
+{% if page.extra %}
+   {{ page.extra.tags }}
+{% endif %}
+<div>
+  	{{ page.content | safe }}
+    {% if page.date %}
+    <span class="badge badge-light">
+    {{ page.date | date(format="%d/%m/%Y") }}
+    </span>
+    <br/>
+    <br/>
+    {% endif %}
+</div>
+{% endblock content %}

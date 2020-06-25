@@ -1,0 +1,13 @@
+base_url = "https://dsatlse.github.io"
+title = "DS@LSE"
+highlight_code = true
+highlight_theme = "ir-white"
+build_search_index = true
+taxonomies = [{name = "tags"}]
+[extra]
+years = ["2018", "2019", "2020"]
+facebook = "https://www.facebook.com/mlatlse"
+github = "https://github.com/dsatlse"
+zulip = "https://dsatlse.zulipchat.com"
+email = "mailto:machinelearning@lsesu.org"
+
