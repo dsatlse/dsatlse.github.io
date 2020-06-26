@@ -68,7 +68,7 @@
     </nav>
 
     <main role="main" class="flex-shrink-0">
-    <div class="container">
+    <div class="container" style="margin-bottom: 1rem;">
           {% set announcement = load_data(path="static/announcement.html") %}
           {% if announcement %}
           <div class="alert alert-warning alert-dismissible fade show" role="alert">
@@ -82,7 +82,6 @@
         {% endblock content %}
     </div>
     </main>
-
     <footer class="footer mt-auto py-3">
       <div class="container">
           <span class="text-muted">DS@LSE {{ config.extra.years | last }}. Built with Bootstrap and Zola. <a href="{{ config.extra.facebook }}">Facebook</a>, <a href="{{ config.extra.github }}">GitHub</a>, <a href="{{ config.extra.zulip }}">Zulip</a>, <a href="{{ config.extra.email }}">email</a>.</span>
