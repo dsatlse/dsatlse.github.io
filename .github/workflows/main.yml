@@ -2,12 +2,18 @@ on: push
 name: Build and deploy on push
 jobs:
   build:
-    name: shalzz/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: shalzz/zola-deploy-action@v0.11.0
-      env:
-        BUILD_DIR: .
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        TOKEN: ${{ secrets.TOKEN }}
+    - name: Build
+      run: |
+            VERSION="v0.11.0"
+            curl -L https://github.com/getzola/zola/releases/download/$VERSION/zola-$VERSION-x86_64-unknown-linux-gnu.tar.gz > zola.tar.gz
+            tar -xzf zola.tar.gz
+            ./zola build
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: master
