@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dsatlse.github.io/sitemap.xml
