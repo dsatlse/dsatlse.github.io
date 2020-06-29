@@ -87,6 +87,10 @@
         <loc>https://dsatlse.github.io/materials/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/materials/careers/</loc>
+        <lastmod>2020-06-01</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/materials/deep-learning/</loc>
         <lastmod>2020-06-20</lastmod>
     </url>
@@ -97,6 +101,14 @@
     <url>
         <loc>https://dsatlse.github.io/materials/lse-modules/</loc>
         <lastmod>2020-06-20</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/materials/masters/</loc>
+        <lastmod>2020-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/materials/phd/</loc>
+        <lastmod>2020-06-01</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/materials/ucl-modules/</loc>
