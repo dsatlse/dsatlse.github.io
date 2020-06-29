@@ -15,25 +15,46 @@ Feel free to submit a pull request if you would like to contribute!
 
 ## Department of Statistics
 
-### ST101 - Programming for Data Science
+### ST101 - Programming for Data Science (Half Unit)
 + **Course Content** : "The primary focus of the course is to cover principles of computer programming with a focus on data science applications."
 + **Why you should take it**: Chance to learn programming (Python) and concepts in a formal, academic setting. Taught by Chair and programme director of Data Science, Professor Milan Vojnovic
++ **Prerequisites**: None
++ **Assessment**: Coursework (40%) and project (60%) in the LT
 + [Course Page](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST101.htm)
 
-### ST207 - Databases
+### ST207 - Databases (Half Unit) | Not available in 2020 - 2021
++ **Course Content**: “The goal of this course is to cover basic concepts of database management systems, iuncluding relational and other types of database management systems."
++ **Prerequisites**: ST101 Programming for Data Science or ST115 Managing and Visualising Data
++ **Why you should take it**: Chance to learn about Structured Query Language(SQL) and Python, and to see how various theoretical principles are implemented in practice in a variety of database managemenet systems.Taught by Chair and programme director of Data Science, Professor Milan Vojnovic. 
++ **Assessment**: Coursework (40%) and project (60%) in the LT.
 + [Course Page](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST207.htm)
 
-### ST211 - Applied Regression
+### ST211 - Applied Regression (Half Unit)
++ **Course Content**: "Statistical data analysis in R covering: Simple and multiple linear regression, Model diagnostics, Detection of outliers, Multicollinearity,Introduction to GLMs."
++ **Prerequisites**: ST102 Elementary Statistical Theory
++ **Why you should take it**: High first rate(35.7% 2016/17-2018/19 combined), learn how to do regression in R.
++ **Assessment**: Exam(50%) in ST, Project(45%)in ST and Project(5%) in LT
 + [Course Page](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2019_ST211.htm)
 
-### ST304* - Time Series and Forecasting
+### ST304 - Time Series and Forecasting (Half Unit)
++ **Course Content**: "The course introduces the student to the statistical analysis of time series data and simple models. What time series analysis can be useful for; autocorrelation; stationarity, trend removal and seasonal adjustment, basic time series models; AR, MA, ARMA; invertibility; spectral analysis; estimation; forecasting; introduction to financial time series and the GARCH models; unit root processes."
++ **Prerequisites**: 2nd year Statistics and Probability
++ **Why you should take it**: Time series methods have a wide range of applications to different fields
++ **Assessment**: Exam(100%) in ST
 + [Course Page](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2019_ST304.htm)
 
-### ST308 - Bayesian Inference
+### ST308 - Bayesian Inference (Half Unit)
++ **Course Content**: Statistical decision theory, bayesian inference, implementation, applications 
++ **Prerequisites**: MA100 Mathematical Methods, ST102 Elementary Statistical Theory
++ **Why you should take it**: 
++ **Assessment**: Exam (80%) and Project(20%) in ST
 + [Course Page](http://www.lse.ac.uk/resources/calendar/courseGuides/ST/2019_ST308.htm)
 + [Github](https://github.com/KostasKalog/lse-st308)
 
-### ST309 - Elementary Data Analytics
+### ST309 - Elementary Data Analytics (Half Unit)
++ **Course Content**: "The primary focus of this course is to help students view various problems from business, economy/finance, and social domains from a data perspectives and understand the principles of extracting useful information and knowledge from data."
++ **Why you should take it**: 
++ **Assessment**: Coursework (30%) in MT and Project(70%) in LT 
 + [Course Page](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2019_ST309.htm)
 
 ### ST310 - Machine Learning
@@ -50,7 +71,7 @@ Mathematics Optional Courses films (Moodle): https://moodle.lse.ac.uk/course/vie
 ### MA314 - Algorithms and Programming
 + [Course Page](http://www.lse.ac.uk/resources/calendar/courseGuides/MA/2019_MA314.htm)
 
-### MA316 - Graph Theory
+### MA316 - Graph Theory (Half Unit) | Not available 2020-2021
 + [Course Page](#)
 
 ### MA334 - Dissertation in Mathematics
@@ -58,7 +79,7 @@ Mathematics Optional Courses films (Moodle): https://moodle.lse.ac.uk/course/vie
 + [Course Page](http://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/MA/2020_MA334.htm)
 
 ### MA320 - Mathematics of Networks
-+[Course Page](http://www.lse.ac.uk/resources/calendar/courseGuides/MA/2019_MA320.htm)
++ [Course Page](http://www.lse.ac.uk/resources/calendar/courseGuides/MA/2019_MA320.htm)
 
 ### EC221 - Principles of Econometrics
 + [Course Page](http://www.lse.ac.uk/resources/calendar/courseGuides/EC/2019_EC221.htm)
