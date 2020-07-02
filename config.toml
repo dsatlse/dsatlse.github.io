@@ -4,8 +4,16 @@ highlight_code = true
 highlight_theme = "ir-white"
 build_search_index = true
 taxonomies = [{name = "tags"}]
+
 [extra]
+# Empty means none, otherwise renders html,
+# e.g. "<strong>IMP</strong> in progress"
+announcement = ""
+
+# Sequence of years, keep in order
 years = ["2018", "2019", "2020"]
+
+# Links to social media, keep updated
 facebook = "https://www.facebook.com/mlatlse"
 github = "https://github.com/dsatlse"
 zulip = "https://dsatlse.zulipchat.com"
