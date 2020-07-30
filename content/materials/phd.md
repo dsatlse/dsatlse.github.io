@@ -1,15 +1,12 @@
 +++
-title = "PHD"
+title = "PhD"
 date = 2020-06-01
 +++
 
-## PHDs
+# Applying to a PhD
+ - [Applying to PhD Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+ - [Should I get a PhD in maths?](http://mathmisery.com/wp/2014/07/12/should-i-get-a-phd-in-math/)
 
-**Applying to Ph.D. Programs in Computer Science**
-
-https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
-
-
-**The PHD Grind**
-
-http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf
+# Working on a PhD
+ - [The PhD Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
+ - [Grad school experience of Jeremy Kun](https://medium.com/@jeremyjkun/my-graduate-career-in-math-85fd4efb0fa9#.s5si561ir)
