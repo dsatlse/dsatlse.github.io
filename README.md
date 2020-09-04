@@ -1,14 +1,39 @@
-# dsatlse.github.io
+# Website for the LSESU Data Science Society
 
-Static site using Zola : https://www.getzola.org/documentation/getting-started/overview/
+This is a static website made with [Zola](https://www.getzola.org/).
 
+## Build
 
-Content, information about events, projects, which are defined in Markdown in **/content/**
+Run `zola build` in order to build and `zola serve` to run a small server. With the help of GitHub Actions this website is built on each new commit. You can see the whole build process in `.github/workflows/main.yml`.
 
-Put static files (any images, files, CSS) in **/static/**
+## Content
 
-Templates are reusable pieces of HTML in **/templates/** 
+- Content i.e. materials, events, projects in `/content`
+- Static files e.g. images in `/static`
+- Templates which define the structure in `/templates`
 
-You will primarily need to modify **/content/** and **/static/**
+The templates should be treated as part of the design and edited in last resort.
 
-Once done editing: ```git add```, ```git commit``` and ```git push``` your changes. The github action will build the site and serve it to https://dsatlse.github.io/
+## Contribution
+
+Below is the least amount of steps to get from a fresh Git installation to changing
+content on this site. To be extended with detailed explanations.
+
+Inform your Git about your identity as follows
+```
+git config --global user.name "Your name"
+git config --global user.email "Your email"
+```
+
+Then clone this repository
+```
+git clone https://github.com/dsatlse/dsatlse.github.io.git
+```
+
+After making changes to your local state, assuming you have push rights, run the following
+```
+git add .
+git commit -m "Add content on metric embedding"
+git push
+```
+
