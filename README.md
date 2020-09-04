@@ -1,6 +1,6 @@
 # Website for the LSESU Data Science Society
 
-This is a static website made with [Zola](https://www.getzola.org/).
+This is a static [website](https://dsatlse.github.io/) made with [Zola](https://www.getzola.org/). All public materials developed by the society will be available on it, along with documentation of projects, events and public Zulip communication.
 
 ## Build
 
