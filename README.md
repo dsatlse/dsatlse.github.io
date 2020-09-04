@@ -4,7 +4,9 @@ This is a static website made with [Zola](https://www.getzola.org/).
 
 ## Build
 
-Run `zola build` in order to build and `zola serve` to run a small server. With the help of GitHub Actions this website is built on each new commit. You can see the whole build process in `.github/workflows/main.yml`.
+Install Zola as described [here](https://www.getzola.org/documentation/getting-started/installation/) or, and this is the easiest if you are used to the command line, download precompiled binaries for your platform from [here](https://github.com/getzola/zola/releases).
+
+Run `zola build` in order to build and `zola serve` to run a small server. It will also reload automatically on changes made to the files. With the help of GitHub Actions this website is built automatically on each new commit. You can see the whole build process in `.github/workflows/main.yml`.
 
 ## Content
 
@@ -36,4 +38,3 @@ git add .
 git commit -m "Add content on metric embedding"
 git push
 ```
-
