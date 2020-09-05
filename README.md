@@ -38,3 +38,17 @@ git add .
 git commit -m "Add content on metric embedding"
 git push
 ```
+
+
+## Principles
+
+This is an outline of the technical stack for the LSESU Data Science Society. Here's a bunch of principles. In one word we want to focus on continuity.
+
++ Requiring minimal IT competence to maintain
++ Clear documentation of the tools and how they relate to each other
++ Liberal enough to extend without reinventing the wheel
++ Easy transfer of ownership to subsequent committees
++ Ideally keep the core pieces stable on unpaid plans
++ Plug-and-play nature of components: if something is not used, don't force it
+
+[@kowale 2020](github.com/kowale)
