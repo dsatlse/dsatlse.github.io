@@ -3,9 +3,7 @@ title = "About"
 template = "index.html"
 +++
 
-# About
-
-Set up in 2017, the _LSESU Data Science Society_ (formerly _LSESU Machine Learning Society_) is a student society at the London School of Economics and Political Science. This is the {{ committee() }} committee. We aim to increase the LSE community’s understanding of machine learning, its potential applications and equip members with relevant competencies.
+Set up in 2017, the LSESU Data Science Society (formerly LSESU Machine Learning Society) is a student society at the London School of Economics and Political Science. This is the {{ committee() }} committee. We aim to increase the LSE community’s understanding of machine learning, its potential applications and equip members with relevant competencies.
 
 With the increased availability of large data sets and the importance of predicting outcomes rather than just explaining them in the social sciences, machine learning is starting to become a popular tool. However, both the theory and application of these methods remain detached from the research and teaching we are exposed to. We want to address the broadening interface between ML and social sciences by empowering students with the right tools to be able to understand and deploy ML methods to solve their data-driven questions. We we will focus on the following.
 
@@ -14,7 +12,7 @@ With the increased availability of large data sets and the importance of predict
 - Provide LSE students with opportunities to engage with data science practitioners in industry and enhance their exposure to real-world use cases of data science
 - Engage and collaborate with the wider LSE community, including societies and academic departments
 
-This is a static website made with Zola and hosted on [GitHub Pages](https://github.com/dsatlse/dsatlse.github.io). All public materials developed by the society will be available on it, along with documentation of projects, events and public Zulip communication. Here are some core principles related to our technical stack.
+This is a static website made with Zola and hosted on GitHub, see [the source](https://github.com/dsatlse/dsatlse.github.io). All public materials developed by the society will be available on it, along with documentation of projects, events and public Zulip communication. Here are some core principles related to our technical stack.
 
  - Requiring minimal IT competence to maintain
  - Clear documentation of the tools and how they relate to each other
