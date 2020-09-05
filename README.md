@@ -51,4 +51,4 @@ This is an outline of the technical stack for the LSESU Data Science Society. He
 + Ideally keep the core pieces stable on unpaid plans
 + Plug-and-play nature of components: if something is not used, don't force it
 
-[@kowale 2020](github.com/kowale)
+[@kowale](https://github.com/kowale)
