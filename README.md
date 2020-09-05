@@ -42,7 +42,7 @@ git push
 
 ## Principles
 
-This is an outline of the technical stack for the LSESU Data Science Society. Here's a bunch of principles. In one word we want to focus on continuity.
+This is a static website made with Zola and hosted on GitHub, see the source. All public materials developed by the society will be available on it, along with documentation of projects, events and public Zulip communication. Here are some core principles related to our technical stack.
 
 + Requiring minimal IT competence to maintain
 + Clear documentation of the tools and how they relate to each other
