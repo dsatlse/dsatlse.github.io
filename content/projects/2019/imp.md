@@ -1,11 +1,11 @@
 +++
-title = "Industry Mentorship Program"
+title = "Industry Mentorship Program - Neural Options Pricing"
 date = 2020-06-22
 [taxonomies]
 tags = ["finance", "dl"]
 +++
 
-# Industry Mentorship Programme
+# Industry Mentorship Program - Neural Options Pricing
 
 ![](/2019/industry-mentorship.png)
 

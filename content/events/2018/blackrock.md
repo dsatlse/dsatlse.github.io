@@ -1,5 +1,5 @@
 +++
-title = "Blackrock"
+title = "Blackrock: Machine Learning for Investment Management"
 date = 2018-10-30
 +++
 

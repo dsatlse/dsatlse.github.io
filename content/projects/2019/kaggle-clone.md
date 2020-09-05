@@ -1,10 +1,12 @@
 +++
-title = "Kaggle Clone"
+title = "Kaggle Clone - Data Science Competition Platform"
 date = 2020-06-22
 
 [taxonomies]
 tags = ["go"]
 +++
+
+# Kaggle Clone - Data Science Competition Platform
 
 A rudimentary Kaggle Clone was developed for the purposes of organising Kaggle competitions within the society and as a prototype for a student research paper.
 
