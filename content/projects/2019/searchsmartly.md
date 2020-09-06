@@ -1,5 +1,5 @@
 +++
-title = "Recommender System project for Property Tech startup"
+title = "SearchSmartly feature extraction"
 date = 2020-06-22
 [taxonomies]
 tags = ["nlp", "computer-vision", "tensorflow", "recsys"]
