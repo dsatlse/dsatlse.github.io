@@ -8,6 +8,8 @@ Install Zola as described [here](https://www.getzola.org/documentation/getting-s
 
 Run `zola build` in order to build and `zola serve` to run a small server. It will also reload automatically on changes made to the files. With the help of GitHub Actions this website is built automatically on each new commit. You can see the whole build process in `.github/workflows/main.yml`.
 
+You can also use `zola check` to verify if all external links work. This should be ran every now and then.
+
 ## Content
 
 - Content i.e. materials, events, projects in `/content`
