@@ -87,10 +87,6 @@
         <loc>https://dsatlse.github.io/materials/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/materials/careers/</loc>
-        <lastmod>2020-06-01</lastmod>
-    </url>
-    <url>
         <loc>https://dsatlse.github.io/materials/deep-learning/</loc>
         <lastmod>2020-06-20</lastmod>
     </url>
@@ -99,19 +95,11 @@
         <lastmod>2020-09-05</lastmod>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/materials/foundations/</loc>
-        <lastmod>2020-09-05</lastmod>
-    </url>
-    <url>
         <loc>https://dsatlse.github.io/materials/haskell/</loc>
         <lastmod>2020-06-20</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/materials/lse-modules/</loc>
-        <lastmod>2020-06-20</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/lse-modules2/</loc>
         <lastmod>2020-06-20</lastmod>
     </url>
     <url>
@@ -129,10 +117,6 @@
     <url>
         <loc>https://dsatlse.github.io/materials/phd/</loc>
         <lastmod>2020-06-01</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/portfolio/</loc>
-        <lastmod>2020-09-05</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/materials/programming-languages/</loc>
@@ -185,16 +169,13 @@
         <loc>https://dsatlse.github.io/tags/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/tags/beginner/</loc>
-    </url>
-    <url>
         <loc>https://dsatlse.github.io/tags/computer-vision/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/dl/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/tags/econometrics/</loc>
+        <loc>https://dsatlse.github.io/tags/economics/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/finance/</loc>
@@ -209,9 +190,6 @@
         <loc>https://dsatlse.github.io/tags/lstm/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/tags/machine-learning/</loc>
-    </url>
-    <url>
         <loc>https://dsatlse.github.io/tags/misc/</loc>
     </url>
     <url>
@@ -219,12 +197,6 @@
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/nlp/</loc>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/tags/portfolio/</loc>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/tags/programming-languages/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/python/</loc>
@@ -239,7 +211,7 @@
         <loc>https://dsatlse.github.io/tags/recsys/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/tags/reinforcement-learning/</loc>
+        <loc>https://dsatlse.github.io/tags/rl/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/tensorflow/</loc>
