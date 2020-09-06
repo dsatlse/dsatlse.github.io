@@ -1,8 +1,8 @@
 +++
-title = "Machine Learning / Statistical Learning"
+title = "Machine Learning"
 date = 2020-09-05
 [taxonomies]
-tags = ["machine learning", "ml"]
+tags = ["ml"]
 +++
 
 

@@ -1,8 +1,8 @@
 +++
-title = "Programming Languages"
+title = "Programming"
 date = 2020-09-05
 [taxonomies]
-tags = ["programming languages", "Python", "R", "Julia"]
+tags = ["python", "r", "julia", "go"]
 +++
 
 

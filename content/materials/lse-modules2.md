@@ -1,6 +1,7 @@
 +++
 title = "LSE modules"
 date = 2020-06-20
+draft = true
 +++
 
 # What courses do you need to take that are relevant to Data Science at LSE? 

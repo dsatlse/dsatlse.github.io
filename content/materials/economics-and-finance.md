@@ -2,7 +2,7 @@
 title = "Economics and Finance"
 date = 2020-09-05
 [taxonomies]
-tags = ["econometrics"]
+tags = ["economics", "finance"]
 +++
 
 ## Economics

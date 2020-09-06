@@ -2,7 +2,7 @@
 title = "Reinforcement Learning"
 date = 2020-09-05
 [taxonomies]
-tags = ["reinforcement learning"]
+tags = ["rl"]
 +++
 
 We recommend the **following** as a way to get started with Reinforcement Learning:
