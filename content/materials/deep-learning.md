@@ -5,13 +5,14 @@ date = 2020-06-20
 tags = ["dl"]
 +++
 
-# Deep Learning
+# Deep Learning  
 
-## Online Courses
-
+## Online Courses**
++ **Geoffrey Hinton Neural Networks for Machine Learning (2012)** : https://www.cs.toronto.edu/~hinton/coursera_lectures.html
 + **Andrew Ng Deep Learning** : https://www.coursera.org/specializations/deep-learning
-+ **Fast.Ai** https://www.fast.ai/
++ **FastAI Courses** https://www.fast.ai/
 + **UCL x Deepmind Lectures** :  https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
++ **NYU Deep Learning Lecture (Pytorch)**: https://atcold.github.io/pytorch-Deep-Learning/, https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
 
 ## Theory
 
@@ -22,11 +23,13 @@ tags = ["dl"]
 ## Applications
 + Deep Learning with Python (Francois Chollet) : https://www.amazon.co.uk/Deep-Learning-Python-Francois-Chollet/dp/1617294438
 
+
+
 ## Image Classification
 
 ### InceptionV3
 + [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
-+ [Review: Inception-v3 — 1st Runner Up (Image Classification) in ILSVRC 2015](#)
++ [Review: Inception-v3 — 1st Runner Up (Image Classification) in ILSVRC 2015](https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c)
 
 
 ## Natural Language Processing
@@ -63,10 +66,10 @@ Text Model
 
 ### Sequence-to-Sequence Models
 
-+ [Understanding Encoder-Decoder Sequence to Sequence Model (2019)](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346)
++ [Understanding Encoder-Decoder Sequence to Sequence Model​ (2019)](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346)
 + [Sequence To Sequence Models (2018)](https://medium.com/@dhartidhami/sequence-to-sequence-models-3878c0efa557)
 + [Sequence to sequence model: Introduction and concepts (2017)](https://towardsdatascience.com/sequence-to-sequence-model-introduction-and-concepts-44d9b41cd42d)
-+ [NLP | Sequence to Sequence Networks| Part 1| Processing text data](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-1-processing-text-data-d141a5643b72)
++ [NLP | Sequence to Sequence Networks| Part 1| Processing text data](https://towardsdatascience.comnlp-sequence-to-sequence-networks-part-1-processing-text-data-d141a5643b72)
 + [NLP | Sequence to Sequence Networks| Part 2| Seq2seq Model (EncoderDecoder Model)](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-model-encoderdecoder-model-6c22e29fd7e1)
 + [Sequence Modeling with Deep Learning](https://medium.com/@ODSC/sequence-modelling-with-deep-learning-138dc50c82d2)
 
@@ -83,7 +86,7 @@ Text Model
 
 + [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
 + [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
-+ [Transformer: A Novel Neural Network Architecture for Language Understanding (2017)](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
++ [Transformer: A Novel Neural Network Architecture for Language Understanding​ (2017)](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)
 
 ### Bidirectional Encoder Representations  from Transformers (BERT)
 
@@ -102,4 +105,3 @@ Reinforcement Learning: An Introduction  (Sutton & Barto, 2018): https://www.ama
 ### Cognitive Computing
 + Probabilistic Models of Cognition : https://probmods.org/
 + NYU Computational cognitive modeling - Spring 2020: https://brendenlake.github.io/CCM-site/
-

@@ -1,11 +1,11 @@
 +++
-title = "Data Science Incubator"
+title = "Data Science Incubator - Computer Vision & Finance"
 date = 2020-06-22
 [taxonomies]
 tags = ["finance", "computer-vision", "lstm", "tensorflow", "time-series"]
 +++
 
-# Data Science Incubator
+# Data Science Incubator - Computer Vision & Finance
 
 ## Finance
 

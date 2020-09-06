@@ -14,8 +14,12 @@ announcement = ""
 years = ["2018", "2019", "2020"]
 
 # Links to social media, keep updated
-facebook = "https://www.facebook.com/mlatlse"
+facebook = "https://www.facebook.com/dsatlse"
+lsesu = "https://www.lsesu.com/communities/societies/group/machinelearning/"
 github = "https://github.com/dsatlse"
 zulip = "https://dsatlse.zulipchat.com"
 email = "mailto:machinelearning@lsesu.org"
+linkedin = "https://www.linkedin.com/company/lsesu-data-science-society/"
+instagram = "https://www.instagram.com/dsatlse/"
+whatsapp = "https://chat.whatsapp.com/LjuhW0KVHxdBWK5eCFx3FZ"
 
