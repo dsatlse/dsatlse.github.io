@@ -5,7 +5,7 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>
-    SearchSmartly feature extraction
+    programming languages
 </title>
         
         <link rel="stylesheet" href="https:&#x2F;&#x2F;dsatlse.github.io&#x2F;custom.css">
@@ -26,7 +26,7 @@
     <body class="d-flex flex-column h-100">
     <nav class="navbar navbar-expand-sm navbar-light bg-light navbar-fixed-top flex-shrink-0" style="margin-bottom: 1rem;">
       <a class="navbar-brand" href="https:&#x2F;&#x2F;dsatlse.github.io/">
-          <img src="https:&#x2F;&#x2F;dsatlse.github.io&#x2F;logo.png" width="40" height="40" alt="" loading="lazy">
+          <img src="https:&#x2F;&#x2F;dsatlse.github.io&#x2F;logo_squares.png" width="40" height="40" alt="" loading="lazy">
           <!--div style="font-size:.9em;">
               LSESU Data Science Society
           </div-->
@@ -86,39 +86,32 @@
     <div class="container" style="margin-bottom: 1rem;">
           
         
+    <ul class="list-group">
 
-<div>
-  	<p><strong>NLP side</strong>:  Tasked to extract information from a property's text description. </p>
-<ul>
-<li>Some labels (pre-existing data in their dataset) provided; Baseline performance for simple binary categories (e.g. propertyHasGarden, propertyHasPool) ~90% using Bag-Of-Words + Logistic Regression </li>
-<li>Former approach not as successful on more complex queries (e.g. NumberOfFloors, NumberOfBathrooms) &amp; also no labels provided for some of the information. This necessitated exploring more complex language models, using preexisting implementations in Spacy for Named Entity Recognition (e.g. for Train Stations) and Parts-Of-Speech tagging to generate rules </li>
-<li>Also looked into Bi-Directional Representation Transformers (BERT) for Question-Answering</li>
-</ul>
-<p><strong>Computer Vision side</strong>: Tasked to extract information from a property's images.</p>
-<ul>
-<li>Wrote several scripts to extract heuristic from property images, e.g. colour, brightness</li>
-<li>Looked into existing APIs for object detection (e.g. AWS Rekognition) on unlabelled images. Settled with using CVLib's implementation of YOLOV3</li>
-</ul>
-<p><strong>Recommender System</strong>: Build a model to target users with more relevant properties</p>
-<ul>
-<li>Use of unsupervised methods, Principal Components Analysis + K-Means Clustering to identify implicit groups of users</li>
-<li>After event data provided (user clicks and their associated properties), implemented a simple model to predict user clicks at different stages of the onboarding process using Gradient Boosted Trees (CatBoost) with ~70% ROC AUC Score for 3 events (e.g. property clicked, image clicked, )</li>
-<li>Used SHAPley values, LIME, and CatBoost in-built feature importance (each future's contribution to loss reduction) to explore what features (thus preferences) important to users.</li>
-</ul>
-<p>All methods were then bundled as a simple Flask API server.</p>
+    <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+    <a href="https:&#x2F;&#x2F;dsatlse.github.io&#x2F;materials&#x2F;programming-languages&#x2F;">Programming Languages</a>
+    <div>
+    
+        
+        <a href="https:&#x2F;&#x2F;dsatlse.github.io/tags/programming languages"><span class="badge badge-primary">programming languages</span></a>
+        
+        <a href="https:&#x2F;&#x2F;dsatlse.github.io/tags/Python"><span class="badge badge-primary">Python</span></a>
+        
+        <a href="https:&#x2F;&#x2F;dsatlse.github.io/tags/R"><span class="badge badge-primary">R</span></a>
+        
+        <a href="https:&#x2F;&#x2F;dsatlse.github.io/tags/Julia"><span class="badge badge-primary">Julia</span></a>
+        
+    
+    </div>
+    </li>
 
-    
-    <span class="badge badge-light">
-    22&#x2F;06&#x2F;2020
-    </span>
-    
-</div>
+</ul>
 
     </div>
     </main>
     <footer class="footer mt-auto py-3">
       <div class="container">
-          <span class="text-muted">LSESU Data Science Society 2020. Built with Bootstrap and Zola. <a href="https:&#x2F;&#x2F;www.facebook.com&#x2F;mlatlse">Facebook</a>, <a href="https:&#x2F;&#x2F;github.com&#x2F;dsatlse">GitHub</a>, <a href="https:&#x2F;&#x2F;dsatlse.zulipchat.com">Zulip</a>, <a href="mailto:machinelearning@lsesu.org">email</a>.</span>
+          <span class="text-muted">LSESU Data Science Society 2020. Built with Bootstrap and Zola. <a href="https:&#x2F;&#x2F;www.facebook.com&#x2F;dsatlse">Facebook</a>, <a href="https:&#x2F;&#x2F;www.facebook.com&#x2F;dsatlse">WhatsApp</a>, <a href="https:&#x2F;&#x2F;www.instagram.com&#x2F;dsatlse&#x2F;">Instagram</a>, <a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;company&#x2F;lsesu-data-science-society&#x2F;">LinkedIn</a>, <a href="https:&#x2F;&#x2F;github.com&#x2F;dsatlse">GitHub</a>, <a href="https:&#x2F;&#x2F;dsatlse.zulipchat.com">Zulip</a>, <a href="mailto:machinelearning@lsesu.org">email</a>.</span>
       </div>
     </footer>
     </body>
