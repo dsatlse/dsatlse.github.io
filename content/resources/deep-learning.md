@@ -5,6 +5,8 @@ date = 2020-06-20
 tags = ["dl"]
 +++
 
+This section is a collection of resources about **Deep Learning**
+
 # Deep Learning  
 
 ## Online Courses**

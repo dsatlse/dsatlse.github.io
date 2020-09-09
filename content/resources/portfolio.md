@@ -6,6 +6,10 @@ draft = true
 tags = ["portfolio"]
 +++
 
+
+The following section is a collection of resources about building a portfolio of data science projects
+
+
 # Building a Data Science Portfolio
 
 ## Competition platforms

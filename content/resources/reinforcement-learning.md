@@ -5,7 +5,9 @@ date = 2020-09-05
 tags = ["rl"]
 +++
 
-We recommend the **following** as a way to get started with Reinforcement Learning:
+The following section is a collection of resources about building a portfolio of data science projects
+
+
 
 Sutton, R.S., Barto, A.G., Reinforcement Learning 2nd Edition: http://incompleteideas.net/book/the-book-2nd.html
 

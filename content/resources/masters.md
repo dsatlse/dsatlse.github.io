@@ -4,6 +4,8 @@ date = 2020-06-01
 +++
 
 
+This section is a non-comprehsnive list of **machine learning / statistics / data science**  related masters.
+
 **Contributors**
 
 If you would like to contibute, feel free to make a pull request

@@ -4,6 +4,8 @@ date = 2020-06-01
 draft = true
 +++
 
+The following section is a collection of resources about applying to, or **careers in Data Science** and more broadly, **careers in technology**.
+
 # Careers
 
 [List of Masters in Data Science/Mathematics/Statistics/Computer Science](https://github.com/dsatlse/Careers/blob/master/Masters.md)
