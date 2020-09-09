@@ -84,53 +84,6 @@
         <loc>https://dsatlse.github.io/events/2020/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/materials/</loc>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/deep-learning/</loc>
-        <lastmod>2020-06-20</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/economics-and-finance/</loc>
-        <lastmod>2020-09-05</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/haskell/</loc>
-        <lastmod>2020-06-20</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/lse-modules/</loc>
-        <lastmod>2020-06-20</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/machine-learning/</loc>
-        <lastmod>2020-09-05</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/masters/</loc>
-        <lastmod>2020-06-01</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/misc/</loc>
-        <lastmod>2020-09-05</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/phd/</loc>
-        <lastmod>2020-06-01</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/programming-languages/</loc>
-        <lastmod>2020-09-05</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/reinforcement-learning/</loc>
-        <lastmod>2020-09-05</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/materials/ucl-modules/</loc>
-        <lastmod>2020-06-20</lastmod>
-    </url>
-    <url>
         <loc>https://dsatlse.github.io/projects/</loc>
     </url>
     <url>
@@ -161,6 +114,53 @@
     </url>
     <url>
         <loc>https://dsatlse.github.io/projects/2020/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/deep-learning/</loc>
+        <lastmod>2020-06-20</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/economics-and-finance/</loc>
+        <lastmod>2020-09-05</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/haskell/</loc>
+        <lastmod>2020-06-20</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/lse-modules/</loc>
+        <lastmod>2020-06-20</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/machine-learning/</loc>
+        <lastmod>2020-09-05</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/masters/</loc>
+        <lastmod>2020-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/misc/</loc>
+        <lastmod>2020-09-05</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/phd/</loc>
+        <lastmod>2020-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/programming-languages/</loc>
+        <lastmod>2020-09-05</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/reinforcement-learning/</loc>
+        <lastmod>2020-09-05</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/ucl-modules/</loc>
+        <lastmod>2020-06-20</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/search/</loc>
