@@ -35,6 +35,8 @@ Teach yourself CS : https://teachyourselfcs.com/
 
 OSSU: https://github.com/ossu/computer-science
 
+Introduction to Computational Thinking (Julia) https://mitmath.github.io/18S191/Fall20/
+
 ## Optimisation
 
 Convex Optimisation: https://convex-optimization.github.io/

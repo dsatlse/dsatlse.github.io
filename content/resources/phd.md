@@ -16,3 +16,5 @@ The following section is a collection of resources about applying to, or pursuin
 
 
 Reading Papers: https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+
+ML Academia: https://bastian.rieck.me/blog/posts/2019/new_in_ml/
