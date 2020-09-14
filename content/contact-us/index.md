@@ -28,6 +28,8 @@ You can reach us via any of the following:
 
 <a href="https://www.facebook.com/dsatlse" class="fa fa-facebook"></a> [Facebook Page](https://www.facebook.com/dsatlse)
 
+<a href="https://www.facebook.com/dsatlse" class="fa fa-instagram"></a> [Instagram Page](https://www.instagram.com/dsatlse/)
+
 <a href="https://www.linkedin.com/company/lsesu-data-science-society/" class="fa fa-linkedin"></a> [Linkedin Page](https://www.linkedin.com/company/lsesu-data-science-society/) 
 
 <a href="https://chat.whatsapp.com/LjuhW0KVHxdBWK5eCFx3FZ" class="fa fa-whatsapp"></a> [Whatsapp Chat Group (Social)](https://chat.whatsapp.com/LjuhW0KVHxdBWK5eCFx3FZ) 
