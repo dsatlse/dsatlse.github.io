@@ -11,3 +11,11 @@ Set up in 2017, the LSESU Machine Learning Society focused on increasing the LSE
 
 With the increased availability of large data sets and the importance of predicting outcomes rather than just explaining them in the social sciences, machine learning is starting to become a popular tool. However, both the theory and application of these methods remain detached from the research and teaching we are exposed to. We want to address the broadening interface between ML and social sciences by empowering students with the right tools to be able to understand and deploy ML methods to solve their data-driven questions.
 
+---
+
+Currently running (updated on 18.09.2020)
+
+- Applications to the Project Division, available
+  [here](https://docs.google.com/forms/d/e/1FAIpQLSfmMwQ4aZdaI1P1mqYcRHXAd1RSeFZi6eg79b2OfQIjxyZdzg/viewform)
+
+
