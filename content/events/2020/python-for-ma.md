@@ -1,7 +1,8 @@
 +++
 title = "Python for MA"
 date = 2020-10-05
-tags = ["workshop"]
+[taxonomies]
+tags = ["workshop", "python"]
 +++
 
 ## [LSESU Data Science Society: Python for MA ](#)
