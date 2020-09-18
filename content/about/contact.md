@@ -2,13 +2,6 @@
 title = "Contact Us"
 +++
 
-<!--img class="mx-auto d-block img-responsive" src="society_banner_small.png"-->
-
-<h4>Contact Us</h4>
-
----
-
-
 We welcome you to contact us if you are a student at LSE who is interested in learning more about the society (and moveover  about Data Science and technology in general!), or if you are a company or speaker who would be interested in collaborating on an event.
 
 You can reach us via any of the following:
