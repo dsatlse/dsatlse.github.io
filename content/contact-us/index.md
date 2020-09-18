@@ -32,8 +32,6 @@ You can reach us via any of the following:
 
 <a href="https://www.linkedin.com/company/lsesu-data-science-society/" class="fa fa-linkedin"></a> [Linkedin Page](https://www.linkedin.com/company/lsesu-data-science-society/) 
 
-<a href="https://chat.whatsapp.com/LjuhW0KVHxdBWK5eCFx3FZ" class="fa fa-whatsapp"></a> [Whatsapp Chat Group (Social)](https://chat.whatsapp.com/LjuhW0KVHxdBWK5eCFx3FZ) 
-
 <a href="Zulip Chat Group (Social + Careers)"> <img src = "/icons/zulip.svg" class="fa"> </a> [Zulip Chat Group (Social + Careers)](https://dsatlse.zulipchat.com)
 
 <a href="https://dsatlse.zulipchat.com" class="fa fa-github"></a> [Github](https://dsatlse.zulipchat.com)
