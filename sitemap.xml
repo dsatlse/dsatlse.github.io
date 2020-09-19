@@ -10,80 +10,6 @@
         <loc>https://dsatlse.github.io/events/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/events/2018/</loc>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/agm/</loc>
-        <lastmod>2019-02-26</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/ai-governance/</loc>
-        <lastmod>2018-10-04</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/blackrock/</loc>
-        <lastmod>2018-10-30</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/bloomberg/</loc>
-        <lastmod>2018-11-27</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/kpmg/</loc>
-        <lastmod>2019-02-26</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/quantco/</loc>
-        <lastmod>2018-10-31</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/rezatec/</loc>
-        <lastmod>2018-11-13</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2018/taster-session/</loc>
-        <lastmod>2018-09-26</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/</loc>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/aspect-capital/</loc>
-        <lastmod>2019-11-19</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/collectiwise/</loc>
-        <lastmod>2019-10-30</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/ey/</loc>
-        <lastmod>2019-10-09</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/give-it-a-go/</loc>
-        <lastmod>2019-10-03</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/hedge-funds/</loc>
-        <lastmod>2019-10-23</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/hudson-thames/</loc>
-        <lastmod>2019-11-27</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/neural-networks/</loc>
-        <lastmod>2020-02-12</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/quantco/</loc>
-        <lastmod>2019-11-07</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/events/2019/tobit-modelling/</loc>
-        <lastmod>2019-10-24</lastmod>
-    </url>
-    <url>
         <loc>https://dsatlse.github.io/events/2020/</loc>
     </url>
     <url>
@@ -95,39 +21,103 @@
         <lastmod>2020-10-05</lastmod>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/events/past/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/agm/</loc>
+        <lastmod>2019-02-26</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/ai-governance/</loc>
+        <lastmod>2018-10-04</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/aspect-capital/</loc>
+        <lastmod>2019-11-19</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/blackrock/</loc>
+        <lastmod>2018-10-30</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/bloomberg/</loc>
+        <lastmod>2018-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/collectiwise/</loc>
+        <lastmod>2019-10-30</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/ey/</loc>
+        <lastmod>2019-10-09</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/give-it-a-go/</loc>
+        <lastmod>2019-10-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/hedge-funds/</loc>
+        <lastmod>2019-10-23</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/hudson-thames/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/kpmg/</loc>
+        <lastmod>2019-02-26</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/neural-networks/</loc>
+        <lastmod>2020-02-12</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/quantco/</loc>
+        <lastmod>2018-10-31</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/rezatec/</loc>
+        <lastmod>2018-11-13</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/taster-session/</loc>
+        <lastmod>2018-09-26</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/past/tobit-modelling/</loc>
+        <lastmod>2019-10-24</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/landing/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/projects/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/projects/2018/</loc>
+        <loc>https://dsatlse.github.io/projects/2020/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/projects/2018/imp/</loc>
+        <loc>https://dsatlse.github.io/projects/past/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/past/dsi/</loc>
+        <lastmod>2020-06-22</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/past/imp-2018/</loc>
         <lastmod>2018-06-22</lastmod>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/projects/2019/</loc>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/projects/2019/dsi/</loc>
+        <loc>https://dsatlse.github.io/projects/past/imp-2019/</loc>
         <lastmod>2020-06-22</lastmod>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/projects/2019/imp/</loc>
+        <loc>https://dsatlse.github.io/projects/past/kaggle-clone/</loc>
         <lastmod>2020-06-22</lastmod>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/projects/2019/kaggle-clone/</loc>
+        <loc>https://dsatlse.github.io/projects/past/searchsmartly/</loc>
         <lastmod>2020-06-22</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/projects/2019/searchsmartly/</loc>
-        <lastmod>2020-06-22</lastmod>
-    </url>
-    <url>
-        <loc>https://dsatlse.github.io/projects/2020/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/resources/</loc>
@@ -235,6 +225,9 @@
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/finance/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/flask/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/go/</loc>
