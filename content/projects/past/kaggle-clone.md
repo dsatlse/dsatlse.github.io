@@ -3,7 +3,7 @@ title = "Kaggle Clone - Data Science Competition Platform"
 date = 2020-06-22
 
 [taxonomies]
-tags = ["go"]
+tags = ["go", "python", "flask"]
 +++
 
 # Kaggle Clone - Data Science Competition Platform

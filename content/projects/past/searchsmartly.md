@@ -1,5 +1,5 @@
 +++
-title = "SearchSmartly feature extraction"
+title = "SearchSmartly feature extraction - Recommender System"
 date = 2020-06-22
 [taxonomies]
 tags = ["nlp", "computer-vision", "tensorflow", "recsys"]

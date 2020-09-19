@@ -3,7 +3,7 @@ title = "Careers"
 date = 2020-09-19
 description = "Resources for LSE students interested in careers in data science and technology"
 [taxonomies]
-tags = ["course choices", "internships", 'masters']
+tags = ["course-choices", "internships", 'masters']
 +++
 
 The following section is a collection of resources about applying to, or **careers in Data Science** and more broadly, **careers in technology**. 
