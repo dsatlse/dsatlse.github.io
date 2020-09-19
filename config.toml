@@ -11,7 +11,7 @@ taxonomies = [{name = "tags"}]
 announcement = ""
 
 # Sequence of years, keep in order
-years = ["2018", "2019", "2020"]
+years = ["past", '2020']
 
 # Links to social media, keep updated
 facebook = "https://www.facebook.com/dsatlse"
