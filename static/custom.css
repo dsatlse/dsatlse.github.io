@@ -7,6 +7,11 @@ html {
     font-size: 18px;
 }
 
+
 .bg-light {
 	background-color:#101628;
+}
+
+.text_primary {
+	color: #1c2747ff;
 }
