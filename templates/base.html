@@ -24,7 +24,7 @@
     <body class="d-flex flex-column h-100">
     <nav class="navbar navbar-expand-sm navbar-light bg-light navbar-fixed-top flex-shrink-0" style="margin-bottom: 1rem;">
       <a class="navbar-brand" href="{{ config.base_url }}/">
-          <img src="{{ get_url(path="logo_squares.png", trailing_slash=false) }}" class ="rounded" width="40" height="40" alt="" loading="lazy">
+          <img src="{{ get_url(path="logo_squares.png", trailing_slash=false) }}" class="rounded" width="40" height="40" alt="" loading="lazy">
           <!--div style="font-size:.9em;">
               LSESU Data Science Society
           </div-->
@@ -91,6 +91,19 @@
     </main>
     <footer class="footer mt-auto py-3">
       <div class="container">
+
+      <span class="text-muted">LSESU Data Science Society {{ config.extra.years | last }}. Built with Bootstrap and Zola. 
+          <a href="{{ config.extra.facebook }}">Facebook</a>, 
+          <a href="{{ config.extra.email }}">email</a>.
+          <a href="{{ config.extra.linkedin }}">LinkedIn</a>,
+          <!--
+           <a href="{{ config.extra.whatsapp }}">WhatsApp</a>, 
+          <a href="{{ config.extra.instagram }}">Instagram</a>, 
+          <a href="{{ config.extra.github }}">GitHub</a>, 
+          <a href="{{ config.extra.zulip }}">Zulip</a>,
+          -->
+      </span>
+
         <center>
           <span class="text-muted"> 
             @LSESU Data Science Society {{ config.extra.years | last }} |  
@@ -100,6 +113,7 @@
             made with Zola and Bootstrap
           </span>
         </center>
+
       </div>
     </footer>
     </body>
