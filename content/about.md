@@ -31,91 +31,91 @@ You can reach us if you have any queries or proposals via the following
 <div class="row row-cols-1 row-cols-md-4">
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Chris.jpg" class="card-img-top">
+			<img src = "/committee/Chris.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">President</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/chrischia06/"><img src ="icons/linkedin.svg"> Chris Chia</a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/chrischia06/"><img src ="/icons/linkedin.svg"> Chris Chia</a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Yen.jpg" class="card-img-top">
+			<img src = "/committee/Yen.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Vice President</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/zhen-yenchan/"><img src ="icons/linkedin.svg"> Zhen-Yen Chan</a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/zhen-yenchan/"><img src ="/icons/linkedin.svg"> Zhen-Yen Chan</a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Rafay.jpg" class="card-img-top">
+			<img src = "/committee/Rafay.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Secretary</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/rafay-butt-a59612195/"><img src ="icons/linkedin.svg"> Rafay Butt </a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/rafay-butt-a59612195/"><img src ="/icons/linkedin.svg"> Rafay Butt </a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Eldric.jpg" class="card-img-top">
+			<img src = "/committee/Eldric.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Treasurer</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/eldriclem/"><img src ="icons/linkedin.svg"> Eldric Lem </a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/eldriclem/"><img src ="/icons/linkedin.svg"> Eldric Lem </a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Hajni.jpg" class="card-img-top">
+			<img src = "/committee/Hajni.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Marketing</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/ha-anh-nguyen-21388b170/"><img src ="icons/linkedin.svg"> Hajni Ngyugen </a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/ha-anh-nguyen-21388b170/"><img src ="/icons/linkedin.svg"> Hajni Ngyugen </a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Rachel.jpg" class="card-img-top">
+			<img src = "/committee/Rachel.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Marketing</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/rachel-soh-87b750194/"><img src ="icons/linkedin.svg"> Rachel Soh </a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/rachel-soh-87b750194/"><img src ="/icons/linkedin.svg"> Rachel Soh </a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Konstanty.jpg" class="card-img-top">
+			<img src = "/committee/Konstanty.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title"> Head of Engineering</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/konstantykowalewski/"><img src ="icons/linkedin.svg"> Konstanty Kowalewski</a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/konstantykowalewski/"><img src ="/icons/linkedin.svg"> Konstanty Kowalewski</a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Maja.jpg" class="card-img-top">
+			<img src = "/committee/Maja.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Education</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/maja-lie-b59a42146/"><img src ="icons/linkedin.svg"> Maja Lie  </a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/maja-lie-b59a42146/"><img src ="/icons/linkedin.svg"> Maja Lie  </a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/Pearl.jpg" class="card-img-top">
+			<img src = "/committee/Pearl.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Partnerships</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/zining-pearl-yuan-7b6b44173/"><img src ="icons/linkedin.svg"> Pearl Yuan</a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/zining-pearl-yuan-7b6b44173/"><img src ="/icons/linkedin.svg"> Pearl Yuan</a></p>
 		  	</div>
 		</div>
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "committee/MunFai.jpg" class="card-img-top">
+			<img src = "/committee/MunFai.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Projects</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/mun-fai-chan-39b5b6190/"><img src ="icons/linkedin.svg"> Mun Fai Chan</a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/mun-fai-chan-39b5b6190/"><img src ="/icons/linkedin.svg"> Mun Fai Chan</a></p>
 		  	</div>
 		</div>
 	</div>
