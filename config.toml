@@ -1,5 +1,5 @@
 base_url = "https://dsatlse.github.io"
-title = "DS@LSE"
+title = "LSESU Data Science Society"
 highlight_code = true
 highlight_theme = "ir-white"
 build_search_index = true
@@ -11,7 +11,7 @@ taxonomies = [{name = "tags"}]
 announcement = "This site is under heavy development"
 
 # Sequence of years, keep in order
-years = ["past", '2020']
+years = ["2018", "2019", "2020"]
 
 # Links to social media, keep updated
 facebook = "https://www.facebook.com/dsatlse"
