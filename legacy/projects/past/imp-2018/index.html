@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en" class="h-100">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>
+    Industry Mentorship Programme 2018 - Recommender System
+</title>
+        
+        <link rel="stylesheet" href="https:&#x2F;&#x2F;dsatlse.github.io&#x2F;custom.css">
+        <link rel="icon" href="https:&#x2F;&#x2F;dsatlse.github.io&#x2F;favicon.png">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        
+        
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/mathtex-script-type.min.js" integrity="sha384-zWYbd0NBwgTsgIdFKVprSfTh1mbMPe5Hz1X3yY4Sd1h/K1cQoUe36OGwAGz/PcDy" crossorigin="anonymous"></script>
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+        
+    </head>
+
+    <body class="d-flex flex-column h-100">
+    <nav class="navbar navbar-expand-sm navbar-light bg-light navbar-fixed-top flex-shrink-0" style="margin-bottom: 1rem;">
+      <a class="navbar-brand" href="https:&#x2F;&#x2F;dsatlse.github.io/">
+          <img src="https:&#x2F;&#x2F;dsatlse.github.io&#x2F;logo_squares.png" class="rounded" width="40" height="40" alt="" loading="lazy">
+          <!--div style="font-size:.9em;">
+              LSESU Data Science Society
+          </div-->
+      </a>
+      <button class="btn btn-primary navbar-toggler" type="button" data-toggle="collapse" data-target="#ourNavbar" aria-controls="ourNavbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="ourNavbar">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="https:&#x2F;&#x2F;dsatlse.github.io/about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https:&#x2F;&#x2F;dsatlse.github.io/resources">Resources</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdownProjects" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Projects
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownProjects">
+                
+                  <a class="dropdown-item" href="https:&#x2F;&#x2F;dsatlse.github.io/projects/2018">2018</a>
+                
+                  <a class="dropdown-item" href="https:&#x2F;&#x2F;dsatlse.github.io/projects/2019">2019</a>
+                
+                  <a class="dropdown-item" href="https:&#x2F;&#x2F;dsatlse.github.io/projects/2020">2020</a>
+                
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdownEvents" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Events
+            </a>
+            <div class="dropdown-menu" aria-labelledby="dropdownEvents">
+                
+                  <a class="dropdown-item" href="https:&#x2F;&#x2F;dsatlse.github.io/events/2018">2018</a>
+                
+                  <a class="dropdown-item" href="https:&#x2F;&#x2F;dsatlse.github.io/events/2019">2019</a>
+                
+                  <a class="dropdown-item" href="https:&#x2F;&#x2F;dsatlse.github.io/events/2020">2020</a>
+                
+            </div>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="https:&#x2F;&#x2F;dsatlse.github.io/search">Search</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="https:&#x2F;&#x2F;dsatlse.github.io/tags">Tags</a>
+          </li>
+
+        </ul>
+      </div>
+    </nav>
+
+    <main role="main" class="flex-shrink-0">
+    <div class="container" style="margin-bottom: 1rem;">
+          
+          <div class="alert alert-warning alert-dismissible fade show" role="alert">
+          This site is under heavy development
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          </div>
+          
+        
+
+<div>
+  	<h1 id="amazon-recommender-system">Amazon Recommender System</h1>
+<p>It started as the Industry Mentorship Programme with Datatonic.</p>
+<h2 id="quick-recap">Quick recap</h2>
+<ul>
+<li>We are using the Amazon reviews dataset book 5-core with approx. 9 million reviews
+<ul>
+<li>The dataset is available at <a href="http://jmcauley.ucsd.edu/data/amazon/">link</a></li>
+<li>It is the largest dense subset available, the second largest one is 1.5M in size</li>
+<li>Books have uniformal cover images, as opposed to e.g. Office Products or Pet Supplies</li>
+</ul>
+</li>
+<li>We decided on using the Rendle's Factorization Machine
+<ul>
+<li>It's simple to understand and implement</li>
+<li>It has linear runtime</li>
+<li>There are potential extensions to online learning (more about this later)</li>
+</ul>
+</li>
+<li>As an end product we want to develop and deploy a &quot;sanity check&quot; web application</li>
+</ul>
+<h2 id="the-sanity-check-web-application">The &quot;sanity check&quot; web application</h2>
+<ul>
+<li>The user is asked for full ratings of 5 books randomly chosen from the dataset</li>
+<li>We predict that user's rating for a large number of randomly chosen book from the dataset</li>
+<li>We show best 5 and worst 5 as the result</li>
+<li>We ask user for feedback about the chosen book which will become the main source of evaluation</li>
+</ul>
+<h2 id="what-we-ve-done">What we've done</h2>
+<ul>
+<li>A preprocessing pipeline for a small subset of Books 5-core is available <a href="https://gitlab.com/mlatlse/amazon-recsys">here</a></li>
+<li>We've implemented 2nd order offline FM for sparse input with a ~0.9 RMSE in TensorFlow, <a href="https://gitlab.com/mlatlse/amazon-fm">here</a></li>
+<li>We've designed the &quot;sanity check&quot; application and drafted a RESTful API to plug into the model later on, <a href="https://gitlab.com/mlatlse/amazon-app">here</a></li>
+</ul>
+<h2 id="problems">Problems</h2>
+<ul>
+<li>Write or find a package for sparse encoding for also_rated set categorical feature</li>
+<li>Online formulation: adding new users requires retraining the whole dataset</li>
+</ul>
+<h2 id="online-formulation">Online formulation</h2>
+<ul>
+<li>Since the FM whitepaper in 2010 there were some attempts to formulate convex FM, which would allow to use existing frameworks for online machine learning, namely the Online Convex Optimization framework (in vanilla FM the \hat{y} is non-convex with respect to the pairwise interactions vector (Blondel, 2015), (Yamada, 2017))</li>
+<li>We could train a vanilla FM in a basic FTRL setting but it was shown to be rather slow and less accurate in practice</li>
+<li>This February a formal description of OCCFM which meets the requirements for OCO came out (Lin, 2018)</li>
+<li>This August an approach based on a modified FTRL came out (Luo, 2018), claming to be much faster than OCCFM</li>
+</ul>
+
+    
+    <span class="badge badge-light">
+    22&#x2F;06&#x2F;2018
+    </span>
+    
+</div>
+
+    </div>
+    </main>
+    <footer class="footer mt-auto py-3">
+      <div class="container">
+
+      <span class="text-muted">LSESU Data Science Society 2020. Built with Bootstrap and Zola. 
+          <a href="https:&#x2F;&#x2F;www.facebook.com&#x2F;dsatlse">Facebook</a>, 
+          <a href="mailto:data-science@lsesu.org">email</a>.
+          <a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;company&#x2F;lsesu-data-science-society&#x2F;">LinkedIn</a>,
+          <!--
+          <a href="https:&#x2F;&#x2F;www.instagram.com&#x2F;dsatlse&#x2F;">Instagram</a>, 
+          <a href="https:&#x2F;&#x2F;github.com&#x2F;dsatlse">GitHub</a>, 
+          <a href="https:&#x2F;&#x2F;dsatlse.zulipchat.com">Zulip</a>,
+          -->
+      </span>
+
+        <center>
+          <span class="text-muted"> 
+            @LSESU Data Science Society 2020 |  
+            <a href="https:&#x2F;&#x2F;www.facebook.com&#x2F;dsatlse"><img src = "/icons/facebook.svg"> Facebook </a>  | 
+            <a href="mailto:data-science@lsesu.org"> <img src ="/icons/email.svg">Email</a> |
+            <a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;company&#x2F;lsesu-data-science-society&#x2F;"> <img src ="/icons/linkedin.svg">Linkedin</a> </a> |
+            made with Zola and Bootstrap
+          </span>
+        </center>
+
+      </div>
+    </footer>
+    </body>
+
+</html>
