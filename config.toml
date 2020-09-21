@@ -8,7 +8,8 @@ taxonomies = [{name = "tags"}]
 [extra]
 # Empty means none, otherwise renders html,
 # e.g. "<strong>IMP</strong> in progress"
-announcement = "This website is under heavy development, the structure might change"
+# announcement = "This website is under heavy development, the structure might change"
+announcement = ""
 
 # Sequence of years, keep in order
 years = ["2018", "2019", "2020"]
