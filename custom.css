@@ -15,3 +15,12 @@ html {
 .text_primary {
 	color: #1c2747ff;
 }
+
+.socials {
+    text-decoration: none;
+}
+
+.footer-socials {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
