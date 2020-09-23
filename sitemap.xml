@@ -326,12 +326,16 @@
         <loc>https://dsatlse.github.io/resources/</loc>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/resources/deep-learning/</loc>
-        <lastmod>2020-06-20</lastmod>
+        <loc>https://dsatlse.github.io/resources/applications/</loc>
+        <lastmod>2020-09-19</lastmod>
     </url>
     <url>
-        <loc>https://dsatlse.github.io/resources/economics-and-finance/</loc>
-        <lastmod>2020-09-05</lastmod>
+        <loc>https://dsatlse.github.io/resources/careers/</loc>
+        <lastmod>2020-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/deep-learning/</loc>
+        <lastmod>2020-06-20</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/resources/haskell/</loc>
@@ -364,6 +368,10 @@
     <url>
         <loc>https://dsatlse.github.io/resources/reinforcement-learning/</loc>
         <lastmod>2020-09-05</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/resources/theory/</loc>
+        <lastmod>2020-09-19</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/resources/ucl-modules/</loc>
