@@ -1,7 +1,8 @@
 +++
 title = "Careers in Data Science and Technology for LSE Students"
 date = 2020-06-01
-draft = true
+[taxonomies]
+tags = ["course-choices", "internships", 'masters']
 +++
 
 The following section is a collection of resources about applying to, or **careers in Data Science** and more broadly, **careers in technology**. 

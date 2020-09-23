@@ -1,34 +1,21 @@
 +++
-title = "Programming"
+title = "Programming Languages"
 date = 2020-09-05
 [taxonomies]
-tags = ["python", "r", "julia", "go"]
+tags = ["python", "r", "julia", "haskell", 'sql']
 +++
 
 
 The following section is a collection of resources about learning **specific programming languages** or **programming-related topics**.
 
-### Python
+Some frequently mentioned ""relevant"" programming languages to learn for data science (due to the number of in-built libraries and supporting ecosystem they have, and their learning curve) are: 
 
-https://cjolowicz.github.io/posts/hypermodern-python-01-setup/
++ Python: [python](/resources/python)
++ R: [R](/resources/r)
++ Julia: [julia](/resources/julia)
 
-https://github.com/dabeaz-course/practical-python/blob/main/Notes/Contents.md
 
-Automate the boring stuff with Python
+However, in addition languages for software engineering (or data engineering) are equally if not more important - how to build software systems to store, retrieve, in an efficient manner. This includes
 
-### Julia
-
-https://github.com/mitmath/6S083/blob/master/syllabus.md
-
-Julia as a CLI calculator : https://krasjet.com/rnd.wlk/julia/
-
-Thomas Sargent Lectures in Quantitative Economics (Julia) : https://quantecon.net
-
-https://juliaacademy.com/
-
-### SQL
-https://quip.com/2gwZArKuWk7W
-
-### Web Development
-
-Deep Dive Into Modern Web Development : https://fullstackopen.com/en/
++ SQL: [SQL](/resources/sql)
++ Haskell : [Haskell](/resources/haskell)

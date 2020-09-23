@@ -70,7 +70,7 @@ You can reach us if you have any queries or proposals via the following
 			<img src = "/committee/Hajni.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Marketing</h5>
-		    	<p class="card-text"><a href = "https://www.linkedin.com/in/ha-anh-nguyen-21388b170/"><img width="16px" src ="/icons/linkedin.svg"> Hajni Ngyugen </a></p>
+		    	<p class="card-text"><a href = "https://www.linkedin.com/in/ha-anh-nguyen-21388b170/"><img width="16px" src ="/icons/linkedin.svg"> Hajni Nguyen </a></p>
 		  	</div>
 		</div>
 	</div>
