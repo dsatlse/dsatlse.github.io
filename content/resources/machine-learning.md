@@ -8,6 +8,10 @@ tags = ["ml"]
 This section refers to **machine learning / statistical learning**. 
 
 
+Getting into AI for non-technical people: [https://www.notion.so/Getting-into-AI-for-non-technical-people-42551c69cd604960bf683b9b66dd37d0](https://www.notion.so/Getting-into-AI-for-non-technical-people-42551c69cd604960bf683b9b66dd37d0)
+
+Getting into AI for technical people: [https://www.notion.so/Getting-into-AI-for-technical-people-b1fbaa983c2a4ed7948248e3eae9f9a0](https://www.notion.so/Getting-into-AI-for-technical-people-b1fbaa983c2a4ed7948248e3eae9f9a0)
+
 
 # Theory
 + **Read** [An Introduction to Statistical Learning with Applications in R (Hastie et al)](http://faculty.marshall.usc.edu/gareth-james/ISL/)
@@ -28,9 +32,11 @@ This section refers to **machine learning / statistical learning**.
 
 # MOOCS
 
-+ Andrew Ng Stanford CS229 Machine Learning 2018: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
++ Andrew Ng Stanford CS229 Machine Learning 2018: [https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-+ Bloomberg : https://bloomberg.github.io/foml/#lectures
+AI for everyone : [https://www.coursera.org/learn/ai-for-everyone](https://www.coursera.org/learn/ai-for-everyone)
+
++ Bloomberg : [https://bloomberg.github.io/foml/#lectures](https://bloomberg.github.io/foml/#lectures)
 
 + FastAI: https://www.fast.ai/2020/08/21/fastai2-launch/
 
@@ -38,6 +44,11 @@ This section refers to **machine learning / statistical learning**.
 
 
 # Online Articles
+
+
+Elements of AI free online course: [https://www.elementsofai.com/](https://www.elementsofai.com/)
+
+Mining of Massive Datasets: [http://www.mmds.org/](http://www.mmds.org/)
 
  
 Support Vector Machines (SVM) : https://www.svm-tutorial.com/

@@ -15,12 +15,15 @@ This section is a collection of resources about **Deep Learning**
 + **FastAI Courses** https://www.fast.ai/
 + **UCL x Deepmind Lectures** :  https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
 + **NYU Deep Learning Lecture (Pytorch)**: https://atcold.github.io/pytorch-Deep-Learning/, https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
++ MIT 6.S191 - Intro to Deep learning: [http://introtodeeplearning.com/](http://introtodeeplearning.com/)
 
 ## Theory
 
 + Deep Learning (Goodfellow et al, 2017): https://www.deeplearningbook.org/
 
 + Grokking Deep Learning (Andrew Trask) : https://www.amazon.co.uk/Deep-Learning-Python-Francois-Chollet/dp/1617294438
+
++ Dive into Deep Learning : [http://d2l.ai/index.html](http://d2l.ai/index.html)
 
 ## Applications
 + Deep Learning with Python (Francois Chollet) : https://www.amazon.co.uk/Deep-Learning-Python-Francois-Chollet/dp/1617294438

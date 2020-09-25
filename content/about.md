@@ -31,7 +31,7 @@ You can reach us if you have any queries or proposals via the following
 <div class="row row-cols-1 row-cols-md-4">
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Chris.jpg" class="card-img-top">
+			<img src = "/committee/Chris_cropped.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">President</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/chrischia06/"><img width="16px"src ="/icons/linkedin.svg"> Chris Chia</a></p>
@@ -40,7 +40,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Yen.jpg" class="card-img-top">
+			<img src = "/committee/Yen_cropped.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Vice President</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/zhen-yenchan/"><img width="16px" src ="/icons/linkedin.svg"> Zhen-Yen Chan</a></p>
@@ -49,7 +49,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Rafay.jpg" class="card-img-top">
+			<img src = "/committee/Rafay_cropped.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Secretary</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/rafay-butt-a59612195/"><img width="16px" src ="/icons/linkedin.svg"> Rafay Butt </a></p>
@@ -58,7 +58,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Eldric.jpg" class="card-img-top">
+			<img src = "/committee/Eldric_cropped.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Treasurer</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/eldriclem/"><img width="16px" src ="/icons/linkedin.svg"> Eldric Lem </a></p>
@@ -67,7 +67,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Hajni.jpg" class="card-img-top">
+			<img src = "/committee/Hajni_cropped.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Marketing</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/ha-anh-nguyen-21388b170/"><img width="16px" src ="/icons/linkedin.svg"> Hajni Nguyen </a></p>
@@ -76,7 +76,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Rachel.png" class="card-img-top">
+			<img src = "/committee/Rachel_cropped.jpg	" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Marketing</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/rachel-soh-87b750194/"><img width="16px" src ="/icons/linkedin.svg"> Rachel Soh </a></p>
@@ -85,7 +85,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Konstanty.png" class="card-img-top">
+			<img src = "/committee/Konstanty_cropped.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title"> Head of Engineering</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/konstantykowalewski/"><img width="16px" src ="/icons/linkedin.svg"> Konstanty Kowalewski</a></p>
@@ -94,7 +94,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Maja.jpg" class="card-img-top">
+			<img src = "/committee/Maja_cropped.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Education</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/maja-lie-b59a42146/"><img width="16px" src ="/icons/linkedin.svg"> Maja Lie  </a></p>
@@ -103,7 +103,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/Pearl.jpg" class="card-img-top">
+			<img src = "/committee/Pearl_cropped.png" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Partnerships</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/zining-pearl-yuan-7b6b44173/"><img width="16px" src ="/icons/linkedin.svg"> Pearl Yuan</a></p>
@@ -112,7 +112,7 @@ You can reach us if you have any queries or proposals via the following
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/committee/MunFai.jpg" class="card-img-top">
+			<img src = "/committee/MunFai_cropped.jpg" class="card-img-top">
 			<div class="card-body">
 				<h5 class="card-title">Head of Projects</h5>
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/mun-fai-chan-39b5b6190/"><img width="16px" src ="/icons/linkedin.svg"> Mun Fai Chan</a></p>

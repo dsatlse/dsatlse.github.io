@@ -19,3 +19,12 @@ However, in addition languages for software engineering (or data engineering) ar
 
 + SQL: [SQL](/resources/sql)
 + Haskell : [Haskell](/resources/haskell)
++ Javascript : [javascript](/resources/javascript)
++ Java : [java](/resources/java)
+
+
+In addition to learning programming languages, learning how to use tools - IDEs , git, and software engineering practices.
+
++ Missing Semester of CS Education - covers how to use Git, text editors for programming - [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
+
++ MIT 6.031: Software Construction - covers software engineering principles (in Java) but still very relevant - [http://web.mit.edu/6.031/www/fa19/](http://web.mit.edu/6.031/www/fa19/)
