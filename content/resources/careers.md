@@ -130,7 +130,7 @@ Econometrics :
 If you are interested in more advanced statistical courses:
 
 + [ST304 - Time Series and Forecasting (Half Unit)](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2020_ST304.htm) - how to model a variable over time
-+ [ST308 - Bayesian Inference (Half Unit)](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2020_ST308.htm) - statistical inference from the Bayesian perspective (as opposed to frequentist of ST202)
++ [ST308 - Bayesian Inference (Half Unit)](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2020_ST308.htm) - statistical inference from the Bayesian perspective (as opposed to frequentist of ST202) - [Github](https://github.com/KostasKalog/lse-st308)
 + [ST310 - Machine Learning (Half Unit)](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2020_ST310.htm)
 
 
@@ -147,6 +147,37 @@ There are also more domain-specific courses, such as:
 Other Courses:
 
 + MA314 - Algorithms and Programming,  MA320 - Mathematics of Networks
+
+Department of Methodology Courses:
+
+Graduate level courses for Department of Methodology - but some of the content seems to be available publicly on Github
+
++ ME314 - Introduction to Data Science and Machine Learning [https://lse-me314.github.io/](https://lse-me314.github.io/)
++ MY470 Computer Programming  - Covers introductory programming in Python - [https://github.com/lse-my470/lectures](https://github.com/lse-my470/lectures)
+
++ MY472 Data for Data Scientists [https://lse-my472.github.io/](https://lse-my472.github.io/)
+
++ MY452 Applied Regression Analysis [https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY452.htm](https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY452.htm)
+
++ MY474 Applied Machine Learning for Social Science [https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY474.htm](https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY474.htm)
+
++ MY457 Causal Inference for Observational and Experimental Studies - [https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY457.htm](https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY457.htm)
++ MY459 Special Topics in Quantitative Analysis: Quantitative Text Analysis -  [Github Pages](https://lse-my459.github.io/)
+
++ MY461 Social Network Analyis - [https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY461.htm](https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2020_MY461.htm)
+
+Graduate level courses for Department of Statistics - some content seems to be available on Github
+
++ ST445 Managing and Visualising Data - [Github Pages](https://lse-st445.github.io/)
+
++ ST446 Distributed Computing For Big Data [Github Pages](https://lse-st446.github.io/)
+
++ ST449 Artificial Intelligence and Deep Learning [https://lse-st449.github.io/](https://lse-st449.github.io/)
+
++ ST51 Bayesian Machine Learning - + [Page](https://kostaskalog.github.io/lse-st451/)
+
+
+
 
 
 ## CV
