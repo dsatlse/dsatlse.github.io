@@ -27,8 +27,10 @@ Gilbert Strang : https://www.youtube.com/watch?v=YrHlHbtiSM0&list=PLUl4u3cNGP61i
 James Stewart: Calculus
 
 
-## Probability
+## Probability and Statistitics
 Joe Blitzstein & Jessica Hwang - Harvard STAT110, Introduction to Probability: https://projects.iq.harvard.edu/stat110/home
+
+https://seeing-theory.brown.edu/index.html#4thPage
 
 ## Computer Science 
 Teach yourself CS : https://teachyourselfcs.com/
