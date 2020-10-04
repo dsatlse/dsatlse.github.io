@@ -1,13 +1,14 @@
 +++
-title = "Give It A Go 2020"
-date = 2020-09-30
+title = "Modelling COVID-19 Transmission in Grocery Stores with G-Research"
+date = 2020-10-28
+[taxonomies]
+tags = ["talk"]
 +++
 
-## [LSESU Data Science Society: Give It A Go (2020)](https://www.facebook.com/events/802122663869060/)
+## [Modelling COVID-19 Transmission in Grocery Stores with G-Research](https://www.facebook.com/events/802122663869060/)
 
 <img src = "/2020/event-banners/give-it-a-go.jpg" height=20% width=50%> 
 
-**\* Updated 28/09/2020**
 
 Facebook Event Link: [https://www.facebook.com/events/802122663869060/](https://www.facebook.com/events/802122663869060/)
 
