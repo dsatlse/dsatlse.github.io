@@ -87,6 +87,10 @@
         <loc>https://dsatlse.github.io/events/2020/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/events/2020/actuarial-colab/</loc>
+        <lastmod>2020-10-21</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/events/2020/algo-trading/</loc>
         <lastmod>2020-11-25</lastmod>
     </url>
@@ -480,10 +484,16 @@
         <loc>https://dsatlse.github.io/tags/recsys/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/tags/regression/</loc>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/tags/reinforcement-learning/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/rl/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/speaker/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/sql/</loc>
