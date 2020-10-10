@@ -5,23 +5,25 @@ date = 2020-10-14
 tags = ["workshop", "python"]
 +++
 
-## [LSESU Data Science Society Workshop: Python for MA ](#)
+## [LSESU Data Science Society Workshop: Python for MA ](https://www.facebook.com/events/2643008459281847)
 
 <img src = "/2020/event-banners/python-for-ma.jpg" height=20% width=50%> 
 
-Facebook Event Link: [To be added](#)
+Facebook Event Link: [https://www.facebook.com/events/2643008459281847](https://www.facebook.com/events/2643008459281847)
 
 The first workshop, we introduce the potential of using Python to help with your MA courses - how to use Python for plotting functions, . And an introduction to the **stochastic gradient descent aglorithm**, a key algorithm in Machine Learning.
 
-<a href = "https://docs.google.com/presentation/d/1BGU1JyTtjqcCIt4sSblNWU-1XMgOzvIibAmc0dzmhwU/edit?usp=sharing"> Slides available here </a>
 
-[Google Colab Notebook (Code)](https://colab.research.google.com/drive/1dQptj1lzBPF2XDjYgNXNS8QPlsfC76hJ)
+[Slides available here](https://link.kszk.eu/pythonformaslides)
+
+[Google Colab Notebook (Code, Python)](https://link.kszk.eu/pythonformanotebook)
 
 We discuss:
 
 ### Python for Calculus
 + Using Python for functions
 + Using the ```matplotlib``` library to plot and visualise functions
++ Using the ```sympy``` library to calculate derivatives, integrals (symbolically)
 
 
 ### Python for Linear Algebra
