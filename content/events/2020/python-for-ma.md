@@ -1,13 +1,13 @@
 +++
-title = "Python for MA"
+title = "Workshop: Python for MA"
 date = 2020-10-14
 [taxonomies]
 tags = ["workshop", "python"]
 +++
 
-## [LSESU Data Science Society: Python for MA ](#)
+## [LSESU Data Science Society Workshop: Python for MA ](#)
 
-<!-- <img src = "/2020/give-it-a-go.jpg" height=20% width=50%>  -->
+<img src = "/2020/event-banners/python-for-ma.jpg" height=20% width=50%> 
 
 Facebook Event Link: [To be added](#)
 
@@ -22,15 +22,13 @@ We discuss:
 ### Python for Calculus
 + Using Python for functions
 + Using the ```matplotlib``` library to plot and visualise functions
-+ Example: Using Gradient Descent for functions of one variable for optimisation problems
+
 
 ### Python for Linear Algebra
 + Using the ```numpy``` to do operations on Matrices (sum, product, inverses, eigenvalues)
-+ Example: Markov Chains
+
 
 Finally we introduce the linkage between Multivariate Calculus, Linear Algebra, (and Python) in the **Stochastic Gradient Descent** algorithm, an important method in **Machine Learning**
-
-
 
 
 ### Further Learning
