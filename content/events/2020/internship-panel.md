@@ -38,7 +38,7 @@ A wonderful panel of 6 LSE students who have partaken on  tech/data science inte
 	</div>
 	<div class="col mb-4">
 		<div class="card h-100">
-			<img src = "/2020/misc/panel-Jeria.png" class="card-img-top">
+			<img src = "/2020/misc/panel-jeria.png" class="card-img-top">
 			<div class="card-body">
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/jeriakua/"><img width="16px"src ="/icons/linkedin.svg"> Jeria Kua</a></p>
 		  	</div>
@@ -102,17 +102,17 @@ A wonderful panel of 6 LSE students who have partaken on  tech/data science inte
 + **Wian**: Know one language - recommends Python - as it ahs libraries for statistical models, but also  teaches general software engineering. Also strive for a good mathematical / statistical background.
 
 #### Top Tip
-+ **Aaron**: Don't be afraid to apply and ask others for advice
++ **Aaron**: Don't be afraid to apply! The tech industry isn't as scary as you might think! Be sure to ask others for help!
 
-+ **Derek**: Apply as early as you can; the later you apply the more people you compete with. Make your skills stand up on your CV.
++ **Derek**: Apply as early as you can; the later you apply the more people you compete with.  Make sure to have your skills clearly shown in your CV! (Initially rejected by Bank of England but called again due to DS experience on CV)
 
-+ **Jeria**: Be open minded about the industries you consider - e.g. governmental departments
++ **Jeria**: Be open minded about the industries you consider - e.g. governmental departments. There are tech opportunities everywhere!
 
-+ **Maja**: Be willing to learn. Dont be afraid to apply - just go for it!
++ **Maja**: Be willing to learn and well rounded and dynamic! Read the News! Also Women please apply! It's not just a men's field. Dont be afraid to apply - just go for it!
 
-+ **Mun Fai**: Take as many maths, stats, econometrics courses as you can - especially if you want to break into data science - vs a CS student your programming skills would not be as strong
++ **Mun Fai**: Take as many maths, stats, econometrics courses as you can - especially if you want to break into data science - vs a CS student your programming skills would not be as strong, but you can excel in understanding the mathematical side.
 
-+ **Wian**: Specialise in a particular area -  NLP, CV, time series. Be creative, don't just fit a model. Do more than what is expected.
++ **Wian**: Specialise in a particular area -  Natural Language Processing, Computer Vision, Time Series. Be creative, don't just fit a model. Do more than what is expected.
 
 
 
