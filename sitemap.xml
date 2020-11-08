@@ -370,6 +370,10 @@
         <lastmod>2020-06-01</lastmod>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/resources/data-structures-algorithms/</loc>
+        <lastmod>2020-11-08</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/resources/deep-learning/</loc>
         <lastmod>2020-06-20</lastmod>
     </url>
@@ -412,6 +416,9 @@
         <loc>https://dsatlse.github.io/tags/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/tags/algorithms/</loc>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/tags/careers/</loc>
     </url>
     <url>
@@ -422,6 +429,9 @@
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/course-choices/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/data-structures/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/data-visualisation/</loc>
@@ -449,6 +459,9 @@
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/internships/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/interviews/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/julia/</loc>
