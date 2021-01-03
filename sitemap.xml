@@ -95,6 +95,14 @@
         <lastmod>2020-11-25</lastmod>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/events/2020/analytics/</loc>
+        <lastmod>2020-11-18</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/causalens/</loc>
+        <lastmod>2020-11-25</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/events/2020/computer-vision/</loc>
         <lastmod>2020-12-01</lastmod>
     </url>
@@ -105,6 +113,14 @@
     <url>
         <loc>https://dsatlse.github.io/events/2020/data-storytelling-covid-19/</loc>
         <lastmod>2020-10-07</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/fintech/</loc>
+        <lastmod>2020-12-02</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/gamesnight2/</loc>
+        <lastmod>2020-12-08</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/events/2020/give-it-a-go-2020/</loc>
@@ -123,12 +139,28 @@
         <lastmod>2020-10-28</lastmod>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/events/2020/projects-mt/</loc>
+        <lastmod>2020-12-09</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/events/2020/python-for-ma/</loc>
         <lastmod>2020-10-14</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/events/2020/regression-insurance/</loc>
         <lastmod>2020-10-21</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/rl/</loc>
+        <lastmod>2020-11-17</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/social/</loc>
+        <lastmod>2020-11-07</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/vc/</loc>
+        <lastmod>2020-11-12</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/legacy/about/</loc>
@@ -359,6 +391,30 @@
         <loc>https://dsatlse.github.io/projects/2020/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/projects/2020/causal/</loc>
+        <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/2020/covid/</loc>
+        <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/2020/football/</loc>
+        <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/2020/housing/</loc>
+        <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/2020/hrp/</loc>
+        <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/2020/twitter/</loc>
+        <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/resources/</loc>
     </url>
     <url>
@@ -416,19 +472,40 @@
         <loc>https://dsatlse.github.io/tags/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/tags/algo-trading/</loc>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/tags/algorithms/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/analytics/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/blockchain/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/careers/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/tags/causal-inference/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/causal-machine-learning/</loc>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/tags/classification/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/clustering/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/computer-vision/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/course-choices/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/covid-19/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/data-structures/</loc>
@@ -443,10 +520,16 @@
         <loc>https://dsatlse.github.io/tags/dl/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/tags/econometrics/</loc>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/tags/economics/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/finance/</loc>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/tags/fintech/</loc>
     </url>
     <url>
         <loc>https://dsatlse.github.io/tags/flask/</loc>
