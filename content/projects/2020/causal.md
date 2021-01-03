@@ -1,8 +1,8 @@
 +++
-title = "Causal Inference"
+title = "Causal Machine Learning"
 date = 2021-01-03
 [taxonomies]
-tags = ["econometrics", "causal-inference"]
+tags = ["econometrics", "causal-inference", "causal-machine-learning"]
 +++
 
 # Causal Inference

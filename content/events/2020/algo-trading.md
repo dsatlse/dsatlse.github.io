@@ -1,15 +1,20 @@
 +++
-title = "LSESU Data Science Society Workshop: Algo Trading"
+title = "Workshop: Time Series for Algo Trading"
 date = 2020-11-25
 [taxonomies]
-tags = ["workshop", "python"]
+tags = ["workshop", "python","algo-trading"]
 +++
 
-## [LSESU Data Science Society Workshop: Algo Trading](#)
+## [Workshop: Time Series for Algo Trading](https://www.facebook.com/events/1843313605808195/)
 
-<!-- <img src = "/2020/give-it-a-go.jpg" height=20% width=50%>  -->
+<img src = "/2020/event-banners/algo-trading.jpg" height=20% width=50%> 
 
-Facebook Event Link: [To be added](#)
+Facebook Event Link: [https://www.facebook.com/events/1843313605808195/](https://www.facebook.com/events/1843313605808195/)
+
+We will introduce the notion of TIME SERIES - modelling variables through time and their relevance towards algorithmic trading. Then we will explore how to implement a simple trend following strategy using Python.
+
+[Slides available here](https://docs.google.com/presentation/d/1UZV77AxFVIpwQAH0Z_XgZJVqsTYi7Kx2dboqwUvWR2Q/edit?usp=sharing)
+
+[Google Colab Notebook (Code, Python)](https://colab.research.google.com/drive/1zidwXb9U2yoFJBfXQAwXnBvyG8U3REBg)
 
 
-### Further Learning

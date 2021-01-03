@@ -14,9 +14,9 @@ Facebook Event Link: [https://www.facebook.com/events/2643008459281847](https://
 The first workshop, we introduce the potential of using Python to help with your MA courses - how to use Python for plotting functions, . And an introduction to the **stochastic gradient descent aglorithm**, a key algorithm in Machine Learning.
 
 
-[Slides available here](https://link.kszk.eu/pythonformaslides)
+[Slides available here](https://docs.google.com/presentation/d/1BGU1JyTtjqcCIt4sSblNWU-1XMgOzvIibAmc0dzmhwU/edit?usp=sharing)
 
-[Google Colab Notebook (Code, Python)](https://link.kszk.eu/pythonformanotebook)
+[Google Colab Notebook (Code, Python)](https://colab.research.google.com/drive/1dQptj1lzBPF2XDjYgNXNS8QPlsfC76hJ?usp=sharing)
 
 We discuss:
 
