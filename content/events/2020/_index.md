@@ -1,5 +1,6 @@
 +++
 title = "Events in 2020-2021"
+sort_by= "date"
 +++
 
 We have opened applications for our 2020 Michaelmas Term projects (Deadline October 9th):

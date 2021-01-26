@@ -56,7 +56,7 @@ You can reach us if you have any queries or proposals via the following
 		  	</div>
 		</div>
 	</div>
-	<div class="col mb-4">
+	<!-- <div class="col mb-4">
 		<div class="card h-100">
 			<img src = "/committee/Eldric_cropped.png" class="card-img-top">
 			<div class="card-body">
@@ -64,7 +64,7 @@ You can reach us if you have any queries or proposals via the following
 		    	<p class="card-text"><a href = "https://www.linkedin.com/in/eldriclem/"><img width="16px" src ="/icons/linkedin.svg"> Eldric Lem </a></p>
 		  	</div>
 		</div>
-	</div>
+	</div> -->
 	<div class="col mb-4">
 		<div class="card h-100">
 			<img src = "/committee/Hajni_cropped.jpg" class="card-img-top">
