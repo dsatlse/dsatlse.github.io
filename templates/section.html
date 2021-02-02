@@ -3,7 +3,7 @@
     {{ section.title }}
 {% endblock htmltitle %}
 {% block content %}
-    <ul class="list-group">
+    <!-- <ul class="list-group">
 {% for page in section.pages %}
     <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
     <a href="{{ page.permalink }}">{{ page.title }}</a>
@@ -15,6 +15,30 @@
     {% endif %}
     </div>
     </li>
+{% endfor %} -->
+<!-- </ul> -->
+
+<div class="list-group">
+{% for page in section.pages %}
+    <div class="d-flex justify-content-between align-items-center list-group-item list-group-item-action justify-content-between">
+    <a href="{{ page.permalink }}">
+      <h5 class="mb-1">{{ page.title }}</h5>
+    {% if page.date %}
+        <small>{{ page.date }}</small><br/>
+    {% endif %}
+
+    {% if page.description %}
+    <small>{{ page.description }}</small>
+    {% endif %}
+    </a>
+    <div>
+    {% if page.taxonomies %}
+        {% for tag in page.taxonomies.tags %}
+        <a href="{{ config.base_url }}/tags/{{ tag }}"><span class="badge badge-primary">{{ tag }}</span></a>
+        {% endfor %}
+    {% endif %}
+    </div>
+</div>
 {% endfor %}
-</ul>
+
 {% endblock content %}

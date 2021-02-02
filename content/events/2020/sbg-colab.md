@@ -1,6 +1,6 @@
 +++
 title = "DSS x SBG: How do you teach a computer to get excited about Tennis?"
-date = 2020-10-28
+date = 2021-01-26
 [taxonomies]
 tags = []
 +++
@@ -17,4 +17,4 @@ Take a look behind the scenes at how IBM achieves all of this and what it takes 
 
 ### Recap
 
-Speaker from IBM@Wimbledon. Generative Adversarial Networks (GANs) are being used in this context here to recreate historical matches as modern games, trained on historical and current videos. One application is that it can be used to enhance video quality.
+Speaker from IBM@Wimbledon. Generative Adversarial Networks (GANs) are being used in this context here to recreate historical matches as modern games, trained on historical and current videos. One application is that it can be used to enhance video quality basically.
