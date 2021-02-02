@@ -7,7 +7,7 @@ tags = ["careers", "speaker"]
 
 ## [LSESU Data Science Society Workshop: Classification for US Election prediction](https://www.facebook.com/events/255496359239007)
 
-<img src = "/2020/actuarial-colab.jpg" height=20% width=50%> 
+<img src = "/2020/event-banners/actuarial-colab.jpg" height=20% width=50%> 
 
 Facebook Event Link: [https://www.facebook.com/events/255496359239007](https://www.facebook.com/events/255496359239007)
 
