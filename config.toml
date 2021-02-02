@@ -9,7 +9,7 @@ taxonomies = [{name = "tags"}]
 # Empty means none, otherwise renders html,
 # e.g. "<strong>IMP</strong> in progress"
 # announcement = "This website is under heavy development, the structure might change"
-announcement = ""
+
 
 # Sequence of years, keep in order
 years = ["2018", "2019", "2020"]
@@ -23,4 +23,10 @@ email = "mailto:data-science@lsesu.org"
 linkedin = "https://www.linkedin.com/company/lsesu-data-science-society/"
 instagram = "https://www.instagram.com/dsatlse/"
 twitter = "https://twitter.com/LSESU_DSS"
+
+# DSW info
+dsw_promo = true
+dsw_link = "https://dsatlse.github.io/DataScienceWeekend"
+dsw_eventbrite ="https://dsw.eventbrite.co.uk"
+dsw_about = "The LSESU Data Science Weekend is our inaugural flagship event. Part Conference and part Hackathon. <br/> <br/> The event will showcase interesting career areas in Data Science: Finance and Consulting. <br/> Students will also be tasked to develop and showcase their skills by solving a Data Science challenge. <br/> <br/> 27-28th February 2021, virtually on Zoom"
 

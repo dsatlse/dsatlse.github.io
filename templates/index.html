@@ -14,8 +14,8 @@
   </br>
   <div class="card-body text-center mb-3">
      <!--h2 class="card-title pb-2">Our Mission</h2-->
-    <p class="lead"> <strong> We will build a data science community for LSE students.  </strong> <br/>
-     Rebranded to the LSESU Data Science Society in 2020, we want to <strong>expose LSE students</strong> from all backgrounds to the <strong>potential of data science</strong> and how it can be used in a <strong> range of fields.</strong> </p>
+    <p class="lead"> <!-- <strong> We will build a data science community for LSE students.  </strong> <br/> -->
+     Rebranded to the LSESU Data Science Society in 2020, we aim to <strong>build a Data Science community at LSE</strong>, and showcase the potential of data science</strong> across a <strong> range of fields.</strong> </p>
     <!--p class="lead">
     <a class="btn btn-primary btn-md" href="https://www.facebook.com/dsatlse" role="button"> Facebook</a>
     <a class="btn btn-primary btn-md" href="https://www.instagram.com/dsatlse" role="button">Instagram</a>
@@ -28,6 +28,27 @@
 </div>
 </div>
 
+<hr> 
+
+{% if config.extra.dsw_promo %}
+  <div class="container">
+    <div class="view overlay rounded-top">
+    <center> <a href="{{ config.extra.dsw_link }}"><img src ='2020/event-banners/DSWBanner.png' class="img-fluid" height="75%"></a> </center>
+    <div class="mask rgba-white-slight"></div>
+  </div>
+  <hr class="my-4">
+  <div class="card-body text-center mb-3">
+     <!--h2 class="card-title pb-2">Our Mission</h2-->
+    <p class="lead"> {{ config.extra.dsw_about | safe }}  <br/>
+    </p>
+  </br>
+  </br>
+    <a class="btn btn-success btn-lg" href="{{ config.extra.dsw_eventbrite }}"target="blank" role="button">Eventbrite Link</a>
+    <a class="btn btn-success btn-lg" href="{{ config.extra.dsw_link }}"target="blank" role="button">Event Page</a>
+  </div>
+</div>
+<hr>
+{% endif %}
 <!--center><h2> What We Do </h2></center>
 <div class="row row-cols-1 row-cols-md-2">
 	<div class="col mb-4">
