@@ -87,6 +87,10 @@
         <loc>https://dsatlse.github.io/events/2020/</loc>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/events/2020/ab-testing/</loc>
+        <lastmod>2021-02-17</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/events/2020/actuarial-colab/</loc>
         <lastmod>2020-10-21</lastmod>
     </url>
@@ -113,6 +117,14 @@
     <url>
         <loc>https://dsatlse.github.io/events/2020/data-science-educational-testing/</loc>
         <lastmod>2020-10-30</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/data-science-weekend-day-1/</loc>
+        <lastmod>2021-02-27</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/events/2020/data-science-weekend-day-2/</loc>
+        <lastmod>2021-02-28</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/events/2020/data-storytelling-covid-19/</loc>
@@ -415,8 +427,16 @@
         <lastmod>2021-01-03</lastmod>
     </url>
     <url>
+        <loc>https://dsatlse.github.io/projects/2020/crypto/</loc>
+        <lastmod>2021-03-09</lastmod>
+    </url>
+    <url>
         <loc>https://dsatlse.github.io/projects/2020/football/</loc>
         <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/2020/healthcare/</loc>
+        <lastmod>2021-03-09</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/projects/2020/housing/</loc>
@@ -429,6 +449,10 @@
     <url>
         <loc>https://dsatlse.github.io/projects/2020/twitter/</loc>
         <lastmod>2021-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://dsatlse.github.io/projects/2020/yelp/</loc>
+        <lastmod>2021-03-09</lastmod>
     </url>
     <url>
         <loc>https://dsatlse.github.io/resources/</loc>
