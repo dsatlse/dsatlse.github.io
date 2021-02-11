@@ -2,7 +2,7 @@
 title = "Scalable A/B Testing in Big Tech: Inference, Limitations and Pitfalls"
 date = 2021-02-17
 [taxonomies]
-tags = [causal-inference]
+tags = ["causal-inference"]
 +++
 
 ## [Scalable A/B Testing in Big Tech: Inference, Limitations and Pitfalls](https://www.facebook.com/events/800991147120402)

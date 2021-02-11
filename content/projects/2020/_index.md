@@ -1,7 +1,9 @@
 +++
 title = "Projects in 2020-2021"
+template="section.html"
+sort_by= "date"
 +++
-
+<!-- 
 ## LSESU Data Science Projects 2020 - 2021
 We have opened applications for our 2020 Michaelmas Term projects (Deadline **Friday, October 9th 2020**). Members can get a hands-on learning experience by participating in a structured data science project.
 
@@ -39,3 +41,4 @@ Ideally, we are looking for the following people :
 + Someone who has prior experience with machine learning and is willing to lead a project catered to beginners/ novices (2 projects) OR
 +  Someone who has intermediate expertise in machine learning and programming (preferably postgraduates) and is willing to lead a technically more advanced project (1 project)
 
+ -->
