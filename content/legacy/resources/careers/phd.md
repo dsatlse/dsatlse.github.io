@@ -14,6 +14,9 @@ The following section is a collection of resources about applying to, or pursuin
  - [Grad school experience of Jeremy Kun](https://medium.com/@jeremyjkun/my-graduate-career-in-math-85fd4efb0fa9#.s5si561ir)
 
 
+ + https://www.cs.cmu.edu/%7Eharchol/gradschooltalk.pdf
+
+
 
 Reading Papers: https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 

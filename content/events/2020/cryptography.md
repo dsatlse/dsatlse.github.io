@@ -2,7 +2,7 @@
 title = "Workshop: Intro to Cryptography"
 date = 2021-02-03
 [taxonomies]
-tags = []
+tags = ["mathematics"]
 +++
 
 ## [Workshop: Intro to Cryptography](https://www.facebook.com/events/3269911123108428)

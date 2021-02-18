@@ -19,3 +19,7 @@ The team for this project explored the use of *sentiment analysis* on financial 
 A Google Colab notebook is available [here](https://colab.research.google.com/drive/1oh1ZYbRH2nexJcGBBdXvLD5Xg9_Mmkyd)
 
 And the slides to their presentation are available [here](https://docs.google.com/presentation/d/1hnwXuI0S4lTMHgPMH1LqblaLq5dqOP-aNH8PFqpm1lQ/edit?usp=sharing)
+
+
+[Github Repo](https://github.com/sanj909/DSS_Project_08-2020)
+
