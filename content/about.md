@@ -26,9 +26,9 @@ You can reach us if you have any queries or proposals via the following
 
 {{ contact() }}
 
-## Thanks to the committee of {{ committee() }}
+## Thanks to the committee and subcommittee members of {{ committee() }}
 
 
-Chris Chia, Zhen-Yen Chan (Yen), Rafay Butt, Zining Yuan (Pearl), Rachel Soh, Ha Anh Nguyen (Hajni), Maja Lie, Ramshankar Yadhunath, Elizaveta Bayankina (Liza), Omid Aminnia, Mun Fai Chan, Konstanty Kowalewski (Stan), Elias Roubache, Nihara Warawita, Noémie Claret, Yuhan Liu (Kathy), Isaac Chin , Rachel Aditya, Yanjun He (Hedwig), Yuanfeng Li (Cindy), Ayse Gokmen, Jack Fenner, Ethan Cheong, Shahzeb Khan , Yimei Wang (Elena),  Wazir Kahar
+Chris Chia, Zhen-Yen Chan (Yen), Rafay Butt, Zining Yuan (Pearl), Rachel Soh, Ha Anh Nguyen (Hajni), Maja Lie, Ramshankar Yadhunath, Elizaveta Bayankina (Liza), Omid Aminnia, Mun Fai Chan, Konstanty Kowalewski (Stan), Elias Roubache, Nihara Warawita, Noémie Claret, Yuhan Liu (Kathy), Isaac Chin , Rachel Aditya, Yanjun He (Hedwig), Yuanfeng Li (Cindy), Ayse Gokmen, Jack Fenner, Shahzeb Khan , Yimei Wang (Elena),  Wazir Kahar, Ethan Cheong
 
 
